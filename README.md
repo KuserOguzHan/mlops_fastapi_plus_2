@@ -1,9 +1,9 @@
-main.py: description of Get, post, update, delete 
-models.py: It is found in the row and column of tables.
-database.py: There is information about databases.
-response model: Show limited information.
-router: Use this file to make more modelers.
-auth: There is fundamental information for access.
+- main.py: description of Get, post, update, delete 
+- models.py: It is found in the row and column of tables.
+- database.py: There is information about databases.
+- response model: Show limited information.
+- router: Use this file to make more modelers.
+- auth: There is fundamental information for access.
 
 ### 1. Pip İnstall
 ```
