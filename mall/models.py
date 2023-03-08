@@ -93,7 +93,7 @@ class CreateUpdateUser(SQLModel):
         orm_mode = True
         schema_extra = {
             "example": {
-                "name": "Mesut KOCAMAN",
+                "name": "Ufuk Kalkan",
                 "username": "mlops1",
                 "email": "mlops1@vbo.local",
                 "password": "strongPassword"
@@ -110,7 +110,7 @@ class ShowUser(SQLModel):
         orm_mode = True
         schema_extra = {
             "example": {
-                "name": "Mesut KOCAMAN",
+                "name": "Ufuk Kalkan",
                 "email": "mlops1@vbo.local"
             }
         }        
