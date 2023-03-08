@@ -143,5 +143,3 @@ select * from create_data;
 ```
 select * from "user";
 ```
-
-kkk
