@@ -130,7 +130,8 @@ traindb=> \dt
 ```
 
 
-### 7. Show table
+### 7. Show Table 
+
 ```
 postgres=# \l
 ```
@@ -138,3 +139,9 @@ postgres=# \l
 ```
 select * from create_data;
 ```
+
+```
+select * from "user";
+```
+
+kkk
