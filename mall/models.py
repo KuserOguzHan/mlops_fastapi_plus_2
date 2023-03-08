@@ -84,7 +84,7 @@ class User(SQLModel, table=True):
         
 #Girilen usersı update yapmak için
 class CreateUpdateUser(SQLModel):
-    name: str
+    name: str 
     username: str
     email: str
     password: str
